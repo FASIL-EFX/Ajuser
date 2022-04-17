@@ -1,7 +1,7 @@
 {
-  "name": "Ajuser",
+  "name": "Fasil-ser",
   "version": "7.3.6",
-  "description": "Ajuser is the Modified Version of WhatsAsena, Made By @aju with Baileys.",
+  "description": "Fasil-ser is the Modified Version of WhatsAsena, Made By @fasil with Baileys.",
   "main": "./Ajuser/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
