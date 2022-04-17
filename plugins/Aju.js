@@ -2,7 +2,7 @@ const Julie = require("../events");
 const Config = require("../config");
 const fs = require('fs');
 
-if (Config.WORKTYPE == 'private') {
+if (Config.WORKTYPE == 'public') {
 
   Julie.addCommand(
     { pattern: "assist ?(.*)", fromMe: true, dontAddCommandList: true },
